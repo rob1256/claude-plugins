@@ -1,18 +1,18 @@
-# leecheneler-plugins
+# rob1256-plugins
 
 Personal [Claude Code plugins](https://docs.anthropic.com/en/docs/claude-code/plugins) marketplace. Opinionated developer workflows for conventional commits, pull requests, merges, GitHub issue linking, and dependency patching.
 
 ## Installation
 
 ```sh
-/plugin marketplace add LeeCheneler/leecheneler-plugins
-/plugin install dev@leecheneler-plugins
+/plugin marketplace add rob1256/rob1256-plugins
+/plugin install dev@rob1256-plugins
 ```
 
 ## Updating
 
 ```sh
-/plugin marketplace update leecheneler-plugins
+/plugin marketplace update rob1256-plugins
 ```
 
 ## Plugins
