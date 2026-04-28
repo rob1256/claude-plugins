@@ -1,5 +1,5 @@
 ---
-name: bpp-jira-create-ticket
+name: jira-create-ticket
 description: Write new Jira tickets
 model: opus
 ---
